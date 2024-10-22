@@ -4,7 +4,7 @@ const CONFIG = {
     btnIntro: '❤',
     title: 'Nếu như quá sớm để tớ với cậu thành đôi',
     desc: 'Thì trước tiên cuối tuần này cậu có rảnh không ạ?',
-    btnYes: 'Tớ mặc váy rồi cậu đón tớ đi',
+    btnYes: 'Tớ mặc váy rồi cậu đón tớ đi 👰',
     btnNo: 'Không đâu 😶',
     question:'Cậu muốn đi đâu thì cứ nói với tớ nhé 😉',
     btnReply: 'Send',
