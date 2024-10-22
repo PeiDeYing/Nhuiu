@@ -1,16 +1,16 @@
 const CONFIG = {
-    introTitle: 'Châm à!',
-    introDesc: `Anh yêu em nhiều nắm....`,
+    introTitle: 'Như ơi tớ thích cậu lắm í',
+    introDesc: `Tớ say ngay từ lần đầu tớ thấy cậu 😝`,
     btnIntro: '❤',
-    title: 'Nếu cuộc đời là một bức tranh',
-    desc: 'Vậy thì mình cùng nhau vẽ một bức tranh thật đẹp nhé 😍😍😍',
-    btnYes: 'Dạaaaaaaaaa ❤❤',
+    title: 'Nếu như quá sớm để tớ với cậu thành đôi',
+    desc: 'Thì trước tiên cuối tuần này cậu có rảnh không ạ?',
+    btnYes: 'Tớ mặc váy rồi cậu đón tớ đi',
     btnNo: 'Không đâu 😶',
-    question:'Em có muốn mời anh làm chú rể trong đám cưới của em không 😎',
+    question:'Cậu muốn đi đâu thì cứ nói với tớ nhé 😉',
     btnReply: 'Send',
-    reply: 'Dạ muốn ạaaaaa ❤❤❤',
-    mess: 'Yêu em nhiềuuuu 😘😘',
-    messDesc: 'Nhắn cho anh những lời yêu thương nhé 😙',
+    reply: 'Đi đâu cũng được miễn là cùng nhau =)))))))))))',
+    mess: 'Yêu Như nhiềuuuu 😘😘',
+    messDesc: 'Cậu biết tớ chờ cậu ở đâu rồi đấy',
     btnAccept: 'Okiiiii ❤',
-    messLink: 'https://www.messenger.com/t/100007291034608/' 
+    messLink: 'https://www.facebook.com/messages/t/100007291034608' 
 }
